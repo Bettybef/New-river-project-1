@@ -1,0 +1,24 @@
+Employee_id,first_name,last_name,dept_id,dept_name,dept_joined_on,dept_left_on,salary,salary_as_of,hired_date,terminated_date,active,last_updated
+P10005873,Amy,Gotcher,12,Sales & Fulfillment,4/4/2017,11/7/2019,40000,4/4/2017,4/4/2017,null,yes,3/28/2024
+P10005873,Amy,Gotcher,13,Finance,11/7/2019,null,65000,11/7/2019,4/4/2017,null,yes,3/28/2024
+P10005873,Amy,Gotcher,13,Finance,11/7/2019,null,75000,1/1/2021,4/4/2017,null,yes,3/28/2024
+P10005886,Ellie,Parker,12,Sales & Fulfillment,2/15/2018,6/20/2020,42000,2/15/2018,2/15/2018,null,yes,3/28/2024
+P10005886,Ellie,Parker,14,Human Resources,6/21/2020,null,55000,6/21/2020,2/15/2018,null,yes,3/28/2024
+P10005887,Adam,Smith,13,Finance,7/10/2019,9/25/2021,60000,7/10/2019,7/10/2019,null,yes,3/28/2024
+P10005887,Adam,Smith,16,IT,9/26/2021,null,72000,9/26/2021,7/10/2019,null,yes,3/28/2024
+P10005888,Emily,Johnson,15,Marketing,5/5/2018,8/10/2020,48000,5/5/2018,5/5/2018,null,yes,3/28/2024
+P10005888,Emily,Johnson,17,Operations,8/11/2020,null,60000,8/11/2020,5/5/2018,null,yes,3/28/2024
+P10005889,Gatlin,Vang,16,IT,10/20/2020,null,62000,10/20/2020,10/20/2020,null,yes,3/28/2024
+P10005890,Galilea,Palmer,12,Sales & Fulfillment,9/12/2019,12/15/2021,48000,9/12/2019,9/12/2019,null,yes,3/28/2024
+P10005891,Kyree,Spencer,13,Finance,2/8/2018,null,55000,2/8/2018,2/8/2018,null,yes,3/28/2024
+P10005892,Ila,Kim,14,Human Resources,6/10/2019,null,52000,6/10/2019,6/10/2019,null,yes,3/28/2024
+P10005893,Barrett,Foster,15,Marketing,3/4/2018,6/30/2020,45000,3/4/2018,3/4/2018,null,yes,3/28/2024
+P10005894,Oaklee,Hawkins,16,IT,7/22/2020,null,68000,7/22/2020,7/22/2020,null,yes,3/28/2024
+P10005895,Ray,Saunders,17,Operations,1/17/2021,null,60000,1/17/2021,1/17/2021,null,yes,3/28/2024
+P10005896,Ellie,Campbell,12,Sales & Fulfillment,5/29/2017,8/15/2020,43000,5/29/2017,5/29/2017,null,yes,3/28/2024
+P10005897,Adam,Ross,13,Finance,10/12/2019,null,60000,10/12/2019,10/12/2019,null,yes,3/28/2024
+P10005898,Emily,Howard,14,Human Resources,4/5/2018,7/10/2020,48000,4/5/2018,4/5/2018,null,yes,3/28/2024
+P10005899,Samuel,Powell,15,Marketing,11/3/2018,null,56000,11/3/2018,11/3/2018,null,yes,3/28/2024
+P10005900,Isla,Kim,16,IT,8/15/2020,null,67000,8/15/2020,8/15/2020,null,yes,3/28/2024
+P10005901,Jackson,Taylor,17,Operations,3/22/2021,null,62000,3/22/2021,3/22/2021,null,yes,3/28/2024
+P10005902,Riley,Nguyen,12,Sales & Fulfillment,6/10/2017,9/25/2019,45000,6/10/2017,6/10/2017,null,yes,3/28/2024
